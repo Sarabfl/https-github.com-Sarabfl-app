@@ -1,0 +1,25 @@
+body {
+    padding: 1cm;
+    background: linear-gradient(to top, #f2984aaf, #f2c84ca6);
+    background-size: contain;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+section {
+      background-image: url(../images/upfeathers.png);
+      padding: 50px;
+      margin: 0,5cm;
+      border: 2px solid rgb(117, 78, 6);
+      border-radius: 30px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+   section p {
+       color: black;
+       font-size: 15px;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       
+   }
+   section h2 {
+    color: rgb(87, 59, 7);
+    font-size: 26px
+    
+   }
